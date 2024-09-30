@@ -1,0 +1,2 @@
+# Heart_Disease_Prediction_for_the_DSN_AI_Bootcamp_2024
+Data Science Nigeria X Microsoft 2024 AI Bootcamp Qualification Hackathon
